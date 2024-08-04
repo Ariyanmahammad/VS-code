@@ -1,0 +1,15 @@
+a=10;
+console.log(a);
+b=123.4567;
+console.log(b);
+x="ariyan";
+console.log(x);
+y=345;
+console.log(y);
+y=y++;
+console.log(y);
+console.log(++y);
+console.log(y*8.45);
+w=3;
+w=w*3.14;
+console.log(w);

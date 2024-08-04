@@ -1,0 +1,15 @@
+window
+   |
+document
+   |
+  html
+ 1) head 2) body
+
+ 1) a) title b) meta Tag
+ 1)a)i) text node
+ 1)b)i) attributes
+
+ 2)a)div 
+
+
+ see file : DOM manipulation
